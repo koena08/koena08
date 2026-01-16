@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Koena 👋
 
-<!--
-**koena08/koena08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology graduate  
+💻 Interested in software development, web development, and data analytics  
+🚀 Focused on building practical skills and gaining real-world experience  
 
-Here are some ideas to get you started:
+I’m open to different opportunities within IT and enjoy learning and adapting to new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Languages & Tools
+- **Programming Languages:** C#, Dart, SQL  
+- **Web Technologies:** HTML, CSS  
+- **Frameworks & Tools:** ASP.NET MVC, Flutter, Firebase, Unity  
+- **Databases:** Microsoft SQL Server  
+
+---
+
+## 🔗 Connect with Me
+- LinkedIn: linkedin.com/in/koena-letsie
+
