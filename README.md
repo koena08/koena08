@@ -19,31 +19,6 @@ I'm passionate about building practical solutions and gaining real-world experie
 
 ---
 
-## 🚀 Projects
-
-### EduConnect/CUTHub
-**Mobile & Web Application** | Flutter, Dart, Firebase, ASP.NET MVC
-
-A platform for students to upload and download study materials. Features Firebase authentication and cloud storage, demonstrating full-stack development capabilities across mobile and web.
-
-*Repository link coming soon*
-
-### KnightMaze
-**2D Maze Game** | Unity, C#
-
-A dungeon crawler where players navigate mazes, avoid patrolling monsters, find keys and escape. Showcases Unity fundamentals, AI pathfinding and game state management.
-
-*Repository link coming soon*
-
-### RobotDrop
-**2D Endless Runner** | Unity, C#
-
-An endless runner game featuring an automated robot descending floors whilst avoiding hazards. Demonstrates core Unity scripting, collision detection and procedural generation.
-
-*Repository link coming soon*
-
----
-
 ## 📫 Connect with Me
 
 **LinkedIn:** [linkedin.com/in/koena-letsie](https://linkedin.com/in/koena-letsie)  
