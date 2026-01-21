@@ -27,4 +27,4 @@ I'm passionate about building practical solutions and gaining real-world experie
 
 ---
 
-*Currently expanding my portfolio with personal projects and pursuing Microsoft Azure Fundamentals certification.*
+*Currently expanding my portfolio with personal projects and pursuing Cisco Python Essentials 1 certification.*
